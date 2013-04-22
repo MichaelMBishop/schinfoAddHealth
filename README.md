@@ -2,9 +2,11 @@ schinfoAddHealth
 ================
 
 schinfoAddHealth.R
+
 Michael Metcalf Bishop, michaelbish@gmail.com
 
 Data Source: schinfo.xpt, Longitudinal Study of Adolescent Health
+
 Purpose: Some variables are given more meaningful recoding
          
 Note: I've tried to make everything as transparent as possible, but please see
